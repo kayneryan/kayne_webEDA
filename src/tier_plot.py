@@ -87,6 +87,7 @@ m.fit_bounds([(-72,42), (-66, 48) ])
 folium.LayerControl().add_to(m)
 
 m.save("Internet_in_ME.html")
+m.save("docs/index.html")
 wb.open("src/Internet_in_ME.html", new=1)
 
 print("done!")
