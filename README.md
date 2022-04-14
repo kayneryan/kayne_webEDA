@@ -24,7 +24,7 @@ The result is a map of Maine, with what appears to be streets highlighted in dif
 ![map of connectivity tiers in Maine](https://github.com/kayneryan/kayne_webEDA/raw/main/src/ConnectivityLayers.jpg)
 
 
-## Bonus interactive map
-If you clone the repo, you'll be able to open an HTML file locally from the 'src' folder called 'Internet_in_ME.html'.  
+## Bonus interactive map - view the [GH Pages site](https://kayneryan.github.io/kayne_webEDA/)
+  
 This file shows an interactive map with Tiers 1-5 of the data, where the user can toggle each layer. I tried to assign different colors to each layer but couldn't figure out how, and I could only do Tiers 1-5 to fit underneath the 100MB hosting limit set by GitHub. 
 
