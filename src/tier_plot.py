@@ -80,6 +80,8 @@ df_4_gjson.add_to(m)
 df_5_gjson = folium.features.GeoJson(df_5_sm, name="Tier 5 (> 100M)")
 df_5_gjson.add_to(m)
 
+print("check 2")
+
 m.fit_bounds([(-72,42), (-66, 48) ])
 
 folium.LayerControl().add_to(m)
