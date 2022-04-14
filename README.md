@@ -22,3 +22,9 @@ Finally, I plotted the combined dataset and included a legend so the viewer can 
 The result is a map of Maine, with what appears to be streets highlighted in different colors. There is little information beyond the tier names to suggest what they mean, so further analysis is needed. 
 
 ![map of connectivity tiers in Maine](https://github.com/kayneryan/kayne_webEDA/raw/main/src/ConnectivityLayers.jpg)
+
+
+## Bonus interactive map
+If you clone the repo, you'll be able to open an HTML file locally from the 'src' folder called 'Internet_in_ME.html'.  
+This file shows an interactive map with Tiers 1-5 of the data, where the user can toggle each layer. I tried to assign different colors to each layer but couldn't figure out how, and I could only do Tiers 1-5 to fit underneath the 100MB hosting limit set by GitHub. 
+
