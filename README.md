@@ -28,5 +28,5 @@ The result is a map of Maine, with what appears to be streets highlighted in dif
   
 This file shows an interactive map with Tiers 1-5 of the data, where the user can toggle each layer. I tried to assign different colors to each layer but couldn't figure out how, and I could only do Tiers 1-5 to fit underneath the 100MB hosting limit set by GitHub. 
 
-**Note:** When opening in the web browser, the map is not centered on Maine. There is a better viewing experience if you clone the repo and open Internet_in_ME.html locally. 
+**Note:** When opening in the web browser, the map is not centered on Maine. There is a better viewing experience if you clone the repo and open [Internet_in_ME.html](https://github.com/kayneryan/kayne_webEDA/blob/main/Internet_in_ME.html) locally. 
 
