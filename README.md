@@ -21,7 +21,7 @@ Finally, I plotted the combined dataset and included a legend so the viewer can 
 ## Payoff
 The result is a map of Maine, with what appears to be streets highlighted in different colors. There is little information beyond the tier names to suggest what they mean, so further analysis is needed. 
 
-![map of connectivity tiers in Maine](https://github.com/kayneryan/kayne_webEDA/raw/main/src/ConnectivityLayers.jpg)
+![map of connectivity tiers in Maine](https://github.com/kayneryan/kayne_webEDA/blob/main/ConnectivityLayers.jpg)
 
 
 ## Bonus interactive map - view the [GH Pages site](https://kayneryan.github.io/kayne_webEDA/)
